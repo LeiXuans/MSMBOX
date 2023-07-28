@@ -1,0 +1,29 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "0DE259B3-29",
+    "build_number": 29,
+    "build_time": 1670650974731,
+    "release": true
+  },
+  "encryptLevel": 1,
+  "useFeatures": [],
+  "icon": "res/logo.png",
+  "launchConfig": {
+    "displaySplash": false,
+    "hideLogs": true,
+    "splashIcon": "res/splashIcon.png",
+    "splashText": "MSMBOX V2.0.0B1",
+    "stableMode": true
+  },
+  "main": "main.js",
+  "name": "MSMBOX玩机工具",
+  "optimization": {
+    "removeOpenCv": false,
+    "unusedResources": true
+  },
+  "packageName": "com.MSMBOX",
+  "scripts": {},
+  "versionCode": 201,
+  "versionName": "2.0.1"
+}
