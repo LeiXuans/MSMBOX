@@ -1,6 +1,10 @@
 # MSMBOX
 MSMBOX 2.0.0源码
-不再更新了，用autojs打包
 
-官网：www.msmbox.cc
-想用请下载MSM玩机助手
+不再更新，用autojs打包
+
+## Tips:
+
+1.官网：www.msmbox.cc
+
+2.想用请下载MSM玩机助手
